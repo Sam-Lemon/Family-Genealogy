@@ -1,0 +1,25 @@
+.ubuntu {
+    font-family: "Ubuntu", serif;
+    font-weight: 250;
+    font-style: normal;
+  }
+
+.navbar {
+    background-color: #7b9945;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 4px;
+    box-shadow: 2px 2px 3px #6d873d;
+    gap: 20px;
+    padding: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 25px;
+    color: #1f1b00;
+}
+
+.navbar a:hover {
+    color: #e1d6cb;
+}
